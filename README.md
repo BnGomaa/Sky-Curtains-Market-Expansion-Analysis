@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 **Sky Curtains**, a company specializing in electric curtains, aims to identify growth opportunities and optimize operational efficiency. 
 
-This project is a **Graduation Project** designed to analyze sales performance across different regions, customer behavior, and product categories to answer the critical question: **"Where should the company expand next?"**
+This project is a comprehensive **Business Case Study** designed to analyze sales performance across different regions, customer behavior, and product categories to answer the critical question: **"Where should the company expand next?"**
 
 ## 🛠️ Technical Solution & Workflow
 
